@@ -1,0 +1,21 @@
+{
+  "name": "redux-toolkit-async-thunk-kit",
+  "version": "1.0.0",
+  "description": "Further kit'ing redux toolkit with a series of function to set up async thunks for your everyday redux slices crud operations.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "author": "Vladimir",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "axios": "^0.27.2",
+    "typescript": "^4.7.4"
+  }
+}
